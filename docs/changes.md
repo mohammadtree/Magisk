@@ -9,7 +9,7 @@
 - [App] Detect and warn about multiple invalid states and provide instructions on how to resolve it
 - [MagiskHide] Fix a bug when stopping MagiskHide does not take effect
 - [MagiskBoot] Fix bug when unpacking `lz4_lg` compressed boot images
-- [MagiskInit] Support Galaxy S21 series
+- [MagiskInit] Support Galaxy S21 seris
 - [MagiskSU] Fix incorrect APEX paths that caused `libsqlite.so` fail to load
 
 ### v21.4
